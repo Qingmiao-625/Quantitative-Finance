@@ -1,0 +1,21 @@
+2025-07-08 22:44:45 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-08 22:44:45 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: 好友的备注名, False, False, 0.5
+2025-07-08 22:44:57 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: 群名称, False, False, 0.5
+2025-07-08 22:46:22 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-08 22:46:22 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: WR, False, False, 0.5
+2025-07-08 22:46:26 [wxauto] [DEBUG] [sessionbox.py:123]  WR 完整匹配
+2025-07-08 22:46:28 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: 李明泽-德纳集团, False, False, 0.5
+2025-07-08 22:46:35 [wxauto] [DEBUG] [sessionbox.py:138]  李明泽-德纳集团 匹配到多个结果，返回第一个
+2025-07-08 22:50:34 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-08 22:52:28 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-08 22:54:00 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-08 22:54:48 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-08 22:54:49 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: 安梓铭, False, False, 0.5
+2025-07-08 22:54:56 [wxauto] [DEBUG] [sessionbox.py:138]  安梓铭 匹配到多个结果，返回第一个
+2025-07-08 22:54:56 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: 安梓铭
+2025-07-08 22:54:58 [wxauto] [DEBUG] [sessionbox.py:161]  未找到会话: 安梓铭
+2025-07-08 22:55:51 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-08 22:55:51 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: 李明泽-德纳集团, False, False, 0.5
+2025-07-08 22:55:58 [wxauto] [DEBUG] [sessionbox.py:138]  李明泽-德纳集团 匹配到多个结果，返回第一个
+2025-07-08 22:57:48 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-07-08 22:57:48 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: WR, False, False, 0.5
